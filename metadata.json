@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Tournament",
+  "description": "A comprehensive Free Fire tournament management platform for creating custom tournaments, tracking real-time standings, registering squads, organizing match lobbies, and communicating via live chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
